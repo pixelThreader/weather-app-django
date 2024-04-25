@@ -1,0 +1,254 @@
+{
+    "data-weather": [
+        {
+            "vars": [
+                "partly-sunny",
+                "Partly Sunny",
+                "Partly Cloudy",
+                "Partly Clear",
+                "partly-cloudy",
+                "Partly Cloudy",
+                "Partly Clear",
+                "2"
+            ],
+            "target": "Partly Sunny",
+            "target-img": "/static/weather/partly-cloudy-day.png"
+        },
+        {
+            "vars": [
+                "showers",
+                "Showers",
+                "Rain Showers",
+                "81"
+            ],
+            "target": "Showers",
+            "target-img": "/static/weather/rain.png"
+        },
+        {
+            "vars": [
+                "scattered-showers",
+                "Scattered Showers",
+                "light-rain",
+                "Light Rain",
+                "Drizzle",
+                "80"
+            ],
+            "target": "Scattered Showers",
+            "target-img": "/static/weather/light-rain.png"
+        },
+        {
+            "vars": [
+                "rain-and-snow",
+                "Rain and Snow",
+                "Wintry Mix",
+                "sleet",
+                "Sleet",
+                "Icy Rain",
+                "66"
+            ],
+            "target": "Rain and Snow",
+            "target-img": "/static/weather/sleet.png"
+        },
+        {
+            "vars": [
+                "overcast",
+                "Overcast",
+                "Cloudy",
+                "mostly-cloudy",
+                "Mostly Cloudy",
+                "Mostly Overcast",
+                "3"
+            ],
+            "target": "Overcast",
+            "target-img": "/static/weather/cloudy.png"
+        },
+        {
+            "vars": [
+                "light-snow",
+                "Light Snow",
+                "flurries",
+                "Flurries",
+                "Light Snowfall",
+                "71"
+            ],
+            "target": "Light Snow",
+            "target-img": "/static/weather/light-snow.png"
+        },
+        {
+            "vars": [
+                "freezing-drizzle",
+                "Freezing Drizzle",
+                "Freezing Rain",
+                "57",
+                "56"
+            ],
+            "target": "Freezing Drizzle",
+            "target-img": "/static/weather/snowy-sunny.png"
+        },
+        {
+            "vars": [
+                "chance-of-rain",
+                "Chance of Rain",
+                "Slight Chance of Rain",
+                "61"
+            ],
+            "target": "Chance of Rain",
+            "target-img": "/static/weather/chance-of-rain.png"
+        },
+        {
+            "vars": [
+                "sunny",
+                "Sunny",
+                "Clear Sky",
+                "clear",
+                "Clear",
+                "mostly-sunny",
+                "Mostly Sunny",
+                "1",
+                "0"
+            ],
+            "target": "Sunny",
+            "target-img": "/static/weather/sunny.png"
+        },
+        {
+            "vars": [
+                "rain",
+                "Rain",
+                "Steady Rain",
+                "63"
+            ],
+            "target": "Rain",
+            "target-img": "/static/weather/rain.png"
+        },
+        {
+            "vars": [
+                "chance-of-snow",
+                "Chance of Snow",
+                "Slight Chance of Snow",
+                "77"
+            ],
+            "target": "Chance of Snow",
+            "target-img": "/static/weather/snow-storm.png"
+        },
+        {
+            "vars": [
+                "mist",
+                "Mist",
+                "Foggy",
+                "fog",
+                "Fog",
+                "Heavy Fog",
+                "45"
+            ],
+            "target": "Mist",
+            "target-img": "/static/weather/haze.png"
+        },
+        {
+            "vars": [
+                "storm",
+                "Storm",
+                "Thunderstorm",
+                "95"
+            ],
+            "target": "Storm",
+            "target-img": "/static/weather/stormy-weather.png"
+        },
+        {
+            "vars": [
+                "thunderstorm",
+                "Thunderstorm",
+                "Electrical Storm",
+                "82"
+            ],
+            "target": "Thunderstorm",
+            "target-img": "/static/weather/storm-with-heavy-rain.png"
+        },
+        {
+            "vars": [
+                "snow",
+                "Snow",
+                "Snowfall",
+                "73"
+            ],
+            "target": "Snow",
+            "target-img": "static/weather/snow.png"
+        },
+        {
+            "vars": [
+                "icy",
+                "Icy",
+                "Freezing Conditions",
+                "67"
+            ],
+            "target": "Icy",
+            "target-img": "/static/weather/icy.png"
+        },
+        {
+            "vars": [
+                "dust",
+                "Dust",
+                "Dusty Conditions",
+                "48"
+            ],
+            "target": "Dust",
+            "target-img": "/static/weather/dust.png"
+        },
+        {
+            "vars": [
+                "snow-showers",
+                "Snow Showers",
+                "Brief Snowfall",
+                "85"
+            ],
+            "target": "Snow Showers",
+            "target-img": "/static/weather/snowy-sunny.png"
+        },
+        {
+            "vars": [
+                "hail",
+                "Hail",
+                "Hailstorm",
+                "96"
+            ],
+            "target": "Hail",
+            "target-img": "/static/weather/hail.png"
+        }
+    ],
+    "data-season": [
+        {
+            "season": ["spring", "bloosoms", "fresh"],
+            "icon-path": "static/season/spring.png",
+            "icon-path2": "static/season/spring-2.png",
+            "img-path": "static/season/spring-b.jpg",
+            "target": "Spring"
+        },
+        {
+            "season": ["summer", "sunny", "hot"],
+            "icon-path": "static/season/summer.png",
+            "icon-path2": "static/season/summer-2.png",
+            "img-path": "static/season/summer-b.jpg",
+            "target": "Summer"
+        },
+        {
+            "season": ["autumn"],
+            "icon-path": "static/season/autmn.png",
+            "icon-path2": "static/season/autmn-2.png",
+            "img-path": "static/season/autmn-b.jpg",
+            "target": "Autumn"
+        },
+        {
+            "season": ["monsoon", "rainy", "rain"],
+            "icon-path": "static/season/autmn.png",
+            "icon-path2": "static/season/autmn-2.png",
+            "img-path": "static/season/autmn-b.jpg",
+            "target": "Monsoon"
+        },
+        {
+            "season": ["winter", "snow", "ice"],
+            "icon-path": "static/season/winter.png",
+            "icon-path2": "static/season/winter-2.png",
+            "img-path": "static/season/winter-b.jpg",
+            "target": "Winter"
+        }
+    ]
+}

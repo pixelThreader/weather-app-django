@@ -1,0 +1,2252 @@
+[
+    {
+        "target_keys": [
+            "Afghanistan",
+            "AFG",
+            "AFN",
+            "Afghan"
+        ],
+        "target": "Afghanistan"
+    },
+    {
+        "target_keys": [
+            "Aland Islands",
+            "ALA",
+            "EUR",
+            "Aland Island"
+        ],
+        "target": "Aland Islands"
+    },
+    {
+        "target_keys": [
+            "Albania",
+            "ALB",
+            "ALL",
+            "Albanian "
+        ],
+        "target": "Albania"
+    },
+    {
+        "target_keys": [
+            "Algeria",
+            "DZA",
+            "DZD",
+            "Algerian"
+        ],
+        "target": "Algeria"
+    },
+    {
+        "target_keys": [
+            "American Samoa",
+            "ASM",
+            "USD",
+            "American Samoan"
+        ],
+        "target": "American Samoa"
+    },
+    {
+        "target_keys": [
+            "Andorra",
+            "AND",
+            "EUR",
+            "Andorran"
+        ],
+        "target": "Andorra"
+    },
+    {
+        "target_keys": [
+            "Angola",
+            "AGO",
+            "AOA",
+            "Angolan"
+        ],
+        "target": "Angola"
+    },
+    {
+        "target_keys": [
+            "Anguilla",
+            "AIA",
+            "XCD",
+            "Anguillan"
+        ],
+        "target": "Anguilla"
+    },
+    {
+        "target_keys": [
+            "Antarctica",
+            "ATA",
+            "AAD",
+            "Antarctic"
+        ],
+        "target": "Antarctica"
+    },
+    {
+        "target_keys": [
+            "Antigua And Barbuda",
+            "ATG",
+            "XCD",
+            "Antiguan or Barbudan"
+        ],
+        "target": "Antigua And Barbuda"
+    },
+    {
+        "target_keys": [
+            "Argentina",
+            "ARG",
+            "ARS",
+            "Argentine"
+        ],
+        "target": "Argentina"
+    },
+    {
+        "target_keys": [
+            "Armenia",
+            "ARM",
+            "AMD",
+            "Armenian"
+        ],
+        "target": "Armenia"
+    },
+    {
+        "target_keys": [
+            "Aruba",
+            "ABW",
+            "AWG",
+            "Aruban"
+        ],
+        "target": "Aruba"
+    },
+    {
+        "target_keys": [
+            "Australia",
+            "AUS",
+            "AUD",
+            "Australian"
+        ],
+        "target": "Australia"
+    },
+    {
+        "target_keys": [
+            "Austria",
+            "AUT",
+            "EUR",
+            "Austrian"
+        ],
+        "target": "Austria"
+    },
+    {
+        "target_keys": [
+            "Azerbaijan",
+            "AZE",
+            "AZN",
+            "Azerbaijani, Azeri"
+        ],
+        "target": "Azerbaijan"
+    },
+    {
+        "target_keys": [
+            "Bahrain",
+            "BHR",
+            "BHD",
+            "Bahraini"
+        ],
+        "target": "Bahrain"
+    },
+    {
+        "target_keys": [
+            "Bangladesh",
+            "BGD",
+            "BDT",
+            "Bangladeshi"
+        ],
+        "target": "Bangladesh"
+    },
+    {
+        "target_keys": [
+            "Barbados",
+            "BRB",
+            "BBD",
+            "Barbadian"
+        ],
+        "target": "Barbados"
+    },
+    {
+        "target_keys": [
+            "Belarus",
+            "BLR",
+            "BYN",
+            "Belarusian"
+        ],
+        "target": "Belarus"
+    },
+    {
+        "target_keys": [
+            "Belgium",
+            "BEL",
+            "EUR",
+            "Belgian"
+        ],
+        "target": "Belgium"
+    },
+    {
+        "target_keys": [
+            "Belize",
+            "BLZ",
+            "BZD",
+            "Belizean"
+        ],
+        "target": "Belize"
+    },
+    {
+        "target_keys": [
+            "Benin",
+            "BEN",
+            "XOF",
+            "Beninese, Beninois"
+        ],
+        "target": "Benin"
+    },
+    {
+        "target_keys": [
+            "Bermuda",
+            "BMU",
+            "BMD",
+            "Bermudian, Bermudan"
+        ],
+        "target": "Bermuda"
+    },
+    {
+        "target_keys": [
+            "Bhutan",
+            "BTN",
+            "BTN",
+            "Bhutanese"
+        ],
+        "target": "Bhutan"
+    },
+    {
+        "target_keys": [
+            "Bolivia",
+            "BOL",
+            "BOB",
+            "Bolivian"
+        ],
+        "target": "Bolivia"
+    },
+    {
+        "target_keys": [
+            "Bonaire, Sint Eustatius and Saba",
+            "BES",
+            "USD",
+            "Bonaire"
+        ],
+        "target": "Bonaire, Sint Eustatius and Saba"
+    },
+    {
+        "target_keys": [
+            "Bosnia and Herzegovina",
+            "BIH",
+            "BAM",
+            "Bosnian or Herzegovinian"
+        ],
+        "target": "Bosnia and Herzegovina"
+    },
+    {
+        "target_keys": [
+            "Botswana",
+            "BWA",
+            "BWP",
+            "Motswana, Botswanan"
+        ],
+        "target": "Botswana"
+    },
+    {
+        "target_keys": [
+            "Bouvet Island",
+            "BVT",
+            "NOK",
+            "Bouvet Island"
+        ],
+        "target": "Bouvet Island"
+    },
+    {
+        "target_keys": [
+            "Brazil",
+            "BRA",
+            "BRL",
+            "Brazilian"
+        ],
+        "target": "Brazil"
+    },
+    {
+        "target_keys": [
+            "British Indian Ocean Territory",
+            "IOT",
+            "USD",
+            "BIOT"
+        ],
+        "target": "British Indian Ocean Territory"
+    },
+    {
+        "target_keys": [
+            "Brunei",
+            "BRN",
+            "BND",
+            "Bruneian"
+        ],
+        "target": "Brunei"
+    },
+    {
+        "target_keys": [
+            "Bulgaria",
+            "BGR",
+            "BGN",
+            "Bulgarian"
+        ],
+        "target": "Bulgaria"
+    },
+    {
+        "target_keys": [
+            "Burkina Faso",
+            "BFA",
+            "XOF",
+            "Burkinabe"
+        ],
+        "target": "Burkina Faso"
+    },
+    {
+        "target_keys": [
+            "Burundi",
+            "BDI",
+            "BIF",
+            "Burundian"
+        ],
+        "target": "Burundi"
+    },
+    {
+        "target_keys": [
+            "Cambodia",
+            "KHM",
+            "KHR",
+            "Cambodian"
+        ],
+        "target": "Cambodia"
+    },
+    {
+        "target_keys": [
+            "Cameroon",
+            "CMR",
+            "XAF",
+            "Cameroonian"
+        ],
+        "target": "Cameroon"
+    },
+    {
+        "target_keys": [
+            "Canada",
+            "CAN",
+            "CAD",
+            "Canadian"
+        ],
+        "target": "Canada"
+    },
+    {
+        "target_keys": [
+            "Cape Verde",
+            "CPV",
+            "CVE",
+            "Verdean"
+        ],
+        "target": "Cape Verde"
+    },
+    {
+        "target_keys": [
+            "Cayman Islands",
+            "CYM",
+            "KYD",
+            "Caymanian"
+        ],
+        "target": "Cayman Islands"
+    },
+    {
+        "target_keys": [
+            "Central African Republic",
+            "CAF",
+            "XAF",
+            "Central African"
+        ],
+        "target": "Central African Republic"
+    },
+    {
+        "target_keys": [
+            "Chad",
+            "TCD",
+            "XAF",
+            "Chadian"
+        ],
+        "target": "Chad"
+    },
+    {
+        "target_keys": [
+            "Chile",
+            "CHL",
+            "CLP",
+            "Chilean"
+        ],
+        "target": "Chile"
+    },
+    {
+        "target_keys": [
+            "China",
+            "CHN",
+            "CNY",
+            "Chinese"
+        ],
+        "target": "China"
+    },
+    {
+        "target_keys": [
+            "Christmas Island",
+            "CXR",
+            "AUD",
+            "Christmas Island"
+        ],
+        "target": "Christmas Island"
+    },
+    {
+        "target_keys": [
+            "Cocos (Keeling) Islands",
+            "CCK",
+            "AUD",
+            "Cocos Island"
+        ],
+        "target": "Cocos (Keeling) Islands"
+    },
+    {
+        "target_keys": [
+            "Colombia",
+            "COL",
+            "COP",
+            "Colombian"
+        ],
+        "target": "Colombia"
+    },
+    {
+        "target_keys": [
+            "Comoros",
+            "COM",
+            "KMF",
+            "Comoran, Comorian"
+        ],
+        "target": "Comoros"
+    },
+    {
+        "target_keys": [
+            "Congo",
+            "COG",
+            "XAF",
+            "Congolese"
+        ],
+        "target": "Congo"
+    },
+    {
+        "target_keys": [
+            "Cook Islands",
+            "COK",
+            "NZD",
+            "Cook Island"
+        ],
+        "target": "Cook Islands"
+    },
+    {
+        "target_keys": [
+            "Costa Rica",
+            "CRI",
+            "CRC",
+            "Costa Rican"
+        ],
+        "target": "Costa Rica"
+    },
+    {
+        "target_keys": [
+            "Cote D'Ivoire (Ivory Coast)",
+            "CIV",
+            "XOF",
+            "Ivorian"
+        ],
+        "target": "Cote D'Ivoire (Ivory Coast)"
+    },
+    {
+        "target_keys": [
+            "Croatia",
+            "HRV",
+            "HRK",
+            "Croatian"
+        ],
+        "target": "Croatia"
+    },
+    {
+        "target_keys": [
+            "Cuba",
+            "CUB",
+            "CUP",
+            "Cuban"
+        ],
+        "target": "Cuba"
+    },
+    {
+        "target_keys": [
+            "Cura\u00e7ao",
+            "CUW",
+            "ANG",
+            "Curacaoan"
+        ],
+        "target": "Cura\u00e7ao"
+    },
+    {
+        "target_keys": [
+            "Cyprus",
+            "CYP",
+            "EUR",
+            "Cypriot"
+        ],
+        "target": "Cyprus"
+    },
+    {
+        "target_keys": [
+            "Czech Republic",
+            "CZE",
+            "CZK",
+            "Czech"
+        ],
+        "target": "Czech Republic"
+    },
+    {
+        "target_keys": [
+            "Democratic Republic of the Congo",
+            "COD",
+            "CDF",
+            "Congolese"
+        ],
+        "target": "Democratic Republic of the Congo"
+    },
+    {
+        "target_keys": [
+            "Denmark",
+            "DNK",
+            "DKK",
+            "Danish"
+        ],
+        "target": "Denmark"
+    },
+    {
+        "target_keys": [
+            "Djibouti",
+            "DJI",
+            "DJF",
+            "Djiboutian"
+        ],
+        "target": "Djibouti"
+    },
+    {
+        "target_keys": [
+            "Dominica",
+            "DMA",
+            "XCD",
+            "Dominican"
+        ],
+        "target": "Dominica"
+    },
+    {
+        "target_keys": [
+            "Dominican Republic",
+            "DOM",
+            "DOP",
+            "Dominican"
+        ],
+        "target": "Dominican Republic"
+    },
+    {
+        "target_keys": [
+            "East Timor",
+            "TLS",
+            "USD",
+            "Timorese"
+        ],
+        "target": "East Timor"
+    },
+    {
+        "target_keys": [
+            "Ecuador",
+            "ECU",
+            "USD",
+            "Ecuadorian"
+        ],
+        "target": "Ecuador"
+    },
+    {
+        "target_keys": [
+            "Egypt",
+            "EGY",
+            "EGP",
+            "Egyptian"
+        ],
+        "target": "Egypt"
+    },
+    {
+        "target_keys": [
+            "El Salvador",
+            "SLV",
+            "USD",
+            "Salvadoran"
+        ],
+        "target": "El Salvador"
+    },
+    {
+        "target_keys": [
+            "Equatorial Guinea",
+            "GNQ",
+            "XAF",
+            "Equatorial Guinean, Equatoguinean"
+        ],
+        "target": "Equatorial Guinea"
+    },
+    {
+        "target_keys": [
+            "Eritrea",
+            "ERI",
+            "ERN",
+            "Eritrean"
+        ],
+        "target": "Eritrea"
+    },
+    {
+        "target_keys": [
+            "Estonia",
+            "EST",
+            "EUR",
+            "Estonian"
+        ],
+        "target": "Estonia"
+    },
+    {
+        "target_keys": [
+            "Ethiopia",
+            "ETH",
+            "ETB",
+            "Ethiopian"
+        ],
+        "target": "Ethiopia"
+    },
+    {
+        "target_keys": [
+            "Falkland Islands",
+            "FLK",
+            "FKP",
+            "Falkland Island"
+        ],
+        "target": "Falkland Islands"
+    },
+    {
+        "target_keys": [
+            "Faroe Islands",
+            "FRO",
+            "DKK",
+            "Faroese"
+        ],
+        "target": "Faroe Islands"
+    },
+    {
+        "target_keys": [
+            "Fiji Islands",
+            "FJI",
+            "FJD",
+            "Fijian"
+        ],
+        "target": "Fiji Islands"
+    },
+    {
+        "target_keys": [
+            "Finland",
+            "FIN",
+            "EUR",
+            "Finnish"
+        ],
+        "target": "Finland"
+    },
+    {
+        "target_keys": [
+            "France",
+            "FRA",
+            "EUR",
+            "French"
+        ],
+        "target": "France"
+    },
+    {
+        "target_keys": [
+            "French Guiana",
+            "GUF",
+            "EUR",
+            "French Guianese"
+        ],
+        "target": "French Guiana"
+    },
+    {
+        "target_keys": [
+            "French Polynesia",
+            "PYF",
+            "XPF",
+            "French Polynesia"
+        ],
+        "target": "French Polynesia"
+    },
+    {
+        "target_keys": [
+            "French Southern Territories",
+            "ATF",
+            "EUR",
+            "French Southern Territories"
+        ],
+        "target": "French Southern Territories"
+    },
+    {
+        "target_keys": [
+            "Gabon",
+            "GAB",
+            "XAF",
+            "Gabonese"
+        ],
+        "target": "Gabon"
+    },
+    {
+        "target_keys": [
+            "Gambia The",
+            "GMB",
+            "GMD",
+            "Gambian"
+        ],
+        "target": "Gambia The"
+    },
+    {
+        "target_keys": [
+            "Georgia",
+            "GEO",
+            "GEL",
+            "Georgian"
+        ],
+        "target": "Georgia"
+    },
+    {
+        "target_keys": [
+            "Germany",
+            "DEU",
+            "EUR",
+            "German"
+        ],
+        "target": "Germany"
+    },
+    {
+        "target_keys": [
+            "Ghana",
+            "GHA",
+            "GHS",
+            "Ghanaian"
+        ],
+        "target": "Ghana"
+    },
+    {
+        "target_keys": [
+            "Gibraltar",
+            "GIB",
+            "GIP",
+            "Gibraltar"
+        ],
+        "target": "Gibraltar"
+    },
+    {
+        "target_keys": [
+            "Greece",
+            "GRC",
+            "EUR",
+            "Greek, Hellenic"
+        ],
+        "target": "Greece"
+    },
+    {
+        "target_keys": [
+            "Greenland",
+            "GRL",
+            "DKK",
+            "Greenlandic"
+        ],
+        "target": "Greenland"
+    },
+    {
+        "target_keys": [
+            "Grenada",
+            "GRD",
+            "XCD",
+            "Grenadian"
+        ],
+        "target": "Grenada"
+    },
+    {
+        "target_keys": [
+            "Guadeloupe",
+            "GLP",
+            "EUR",
+            "Guadeloupe"
+        ],
+        "target": "Guadeloupe"
+    },
+    {
+        "target_keys": [
+            "Guam",
+            "GUM",
+            "USD",
+            "Guamanian, Guambat"
+        ],
+        "target": "Guam"
+    },
+    {
+        "target_keys": [
+            "Guatemala",
+            "GTM",
+            "GTQ",
+            "Guatemalan"
+        ],
+        "target": "Guatemala"
+    },
+    {
+        "target_keys": [
+            "Guernsey and Alderney",
+            "GGY",
+            "GBP",
+            "Channel Island"
+        ],
+        "target": "Guernsey and Alderney"
+    },
+    {
+        "target_keys": [
+            "Guinea",
+            "GIN",
+            "GNF",
+            "Guinean"
+        ],
+        "target": "Guinea"
+    },
+    {
+        "target_keys": [
+            "Guinea-Bissau",
+            "GNB",
+            "XOF",
+            "Bissau-Guinean"
+        ],
+        "target": "Guinea-Bissau"
+    },
+    {
+        "target_keys": [
+            "Guyana",
+            "GUY",
+            "GYD",
+            "Guyanese"
+        ],
+        "target": "Guyana"
+    },
+    {
+        "target_keys": [
+            "Haiti",
+            "HTI",
+            "HTG",
+            "Haitian"
+        ],
+        "target": "Haiti"
+    },
+    {
+        "target_keys": [
+            "Heard Island and McDonald Islands",
+            "HMD",
+            "AUD",
+            "Heard Island or McDonald Islands"
+        ],
+        "target": "Heard Island and McDonald Islands"
+    },
+    {
+        "target_keys": [
+            "Honduras",
+            "HND",
+            "HNL",
+            "Honduran"
+        ],
+        "target": "Honduras"
+    },
+    {
+        "target_keys": [
+            "Hong Kong S.A.R.",
+            "HKG",
+            "HKD",
+            "Hong Kong, Hong Kongese"
+        ],
+        "target": "Hong Kong S.A.R."
+    },
+    {
+        "target_keys": [
+            "Hungary",
+            "HUN",
+            "HUF",
+            "Hungarian, Magyar"
+        ],
+        "target": "Hungary"
+    },
+    {
+        "target_keys": [
+            "Iceland",
+            "ISL",
+            "ISK",
+            "Icelandic"
+        ],
+        "target": "Iceland"
+    },
+    {
+        "target_keys": [
+            "India",
+            "IND",
+            "INR",
+            "Indian"
+        ],
+        "target": "India"
+    },
+    {
+        "target_keys": [
+            "Indonesia",
+            "IDN",
+            "IDR",
+            "Indonesian"
+        ],
+        "target": "Indonesia"
+    },
+    {
+        "target_keys": [
+            "Iran",
+            "IRN",
+            "IRR",
+            "Iranian, Persian"
+        ],
+        "target": "Iran"
+    },
+    {
+        "target_keys": [
+            "Iraq",
+            "IRQ",
+            "IQD",
+            "Iraqi"
+        ],
+        "target": "Iraq"
+    },
+    {
+        "target_keys": [
+            "Ireland",
+            "IRL",
+            "EUR",
+            "Irish"
+        ],
+        "target": "Ireland"
+    },
+    {
+        "target_keys": [
+            "Israel",
+            "ISR",
+            "ILS",
+            "Israeli"
+        ],
+        "target": "Israel"
+    },
+    {
+        "target_keys": [
+            "Italy",
+            "ITA",
+            "EUR",
+            "Italian"
+        ],
+        "target": "Italy"
+    },
+    {
+        "target_keys": [
+            "Jamaica",
+            "JAM",
+            "JMD",
+            "Jamaican"
+        ],
+        "target": "Jamaica"
+    },
+    {
+        "target_keys": [
+            "Japan",
+            "JPN",
+            "JPY",
+            "Japanese"
+        ],
+        "target": "Japan"
+    },
+    {
+        "target_keys": [
+            "Jersey",
+            "JEY",
+            "GBP",
+            "Channel Island"
+        ],
+        "target": "Jersey"
+    },
+    {
+        "target_keys": [
+            "Jordan",
+            "JOR",
+            "JOD",
+            "Jordanian"
+        ],
+        "target": "Jordan"
+    },
+    {
+        "target_keys": [
+            "Kazakhstan",
+            "KAZ",
+            "KZT",
+            "Kazakhstani, Kazakh"
+        ],
+        "target": "Kazakhstan"
+    },
+    {
+        "target_keys": [
+            "Kenya",
+            "KEN",
+            "KES",
+            "Kenyan"
+        ],
+        "target": "Kenya"
+    },
+    {
+        "target_keys": [
+            "Kiribati",
+            "KIR",
+            "AUD",
+            "I-Kiribati"
+        ],
+        "target": "Kiribati"
+    },
+    {
+        "target_keys": [
+            "Kosovo",
+            "XKX",
+            "EUR",
+            "Kosovar, Kosovan"
+        ],
+        "target": "Kosovo"
+    },
+    {
+        "target_keys": [
+            "Kuwait",
+            "KWT",
+            "KWD",
+            "Kuwaiti"
+        ],
+        "target": "Kuwait"
+    },
+    {
+        "target_keys": [
+            "Kyrgyzstan",
+            "KGZ",
+            "KGS",
+            "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
+        ],
+        "target": "Kyrgyzstan"
+    },
+    {
+        "target_keys": [
+            "Laos",
+            "LAO",
+            "LAK",
+            "Lao, Laotian"
+        ],
+        "target": "Laos"
+    },
+    {
+        "target_keys": [
+            "Latvia",
+            "LVA",
+            "EUR",
+            "Latvian"
+        ],
+        "target": "Latvia"
+    },
+    {
+        "target_keys": [
+            "Lebanon",
+            "LBN",
+            "LBP",
+            "Lebanese"
+        ],
+        "target": "Lebanon"
+    },
+    {
+        "target_keys": [
+            "Lesotho",
+            "LSO",
+            "LSL",
+            "Basotho"
+        ],
+        "target": "Lesotho"
+    },
+    {
+        "target_keys": [
+            "Liberia",
+            "LBR",
+            "LRD",
+            "Liberian"
+        ],
+        "target": "Liberia"
+    },
+    {
+        "target_keys": [
+            "Libya",
+            "LBY",
+            "LYD",
+            "Libyan"
+        ],
+        "target": "Libya"
+    },
+    {
+        "target_keys": [
+            "Liechtenstein",
+            "LIE",
+            "CHF",
+            "Liechtenstein"
+        ],
+        "target": "Liechtenstein"
+    },
+    {
+        "target_keys": [
+            "Lithuania",
+            "LTU",
+            "EUR",
+            "Lithuanian"
+        ],
+        "target": "Lithuania"
+    },
+    {
+        "target_keys": [
+            "Luxembourg",
+            "LUX",
+            "EUR",
+            "Luxembourg, Luxembourgish"
+        ],
+        "target": "Luxembourg"
+    },
+    {
+        "target_keys": [
+            "Macau S.A.R.",
+            "MAC",
+            "MOP",
+            "Macanese, Chinese"
+        ],
+        "target": "Macau S.A.R."
+    },
+    {
+        "target_keys": [
+            "Madagascar",
+            "MDG",
+            "MGA",
+            "Malagasy"
+        ],
+        "target": "Madagascar"
+    },
+    {
+        "target_keys": [
+            "Malawi",
+            "MWI",
+            "MWK",
+            "Malawian"
+        ],
+        "target": "Malawi"
+    },
+    {
+        "target_keys": [
+            "Malaysia",
+            "MYS",
+            "MYR",
+            "Malaysian"
+        ],
+        "target": "Malaysia"
+    },
+    {
+        "target_keys": [
+            "Maldives",
+            "MDV",
+            "MVR",
+            "Maldivian"
+        ],
+        "target": "Maldives"
+    },
+    {
+        "target_keys": [
+            "Mali",
+            "MLI",
+            "XOF",
+            "Malian, Malinese"
+        ],
+        "target": "Mali"
+    },
+    {
+        "target_keys": [
+            "Malta",
+            "MLT",
+            "EUR",
+            "Maltese"
+        ],
+        "target": "Malta"
+    },
+    {
+        "target_keys": [
+            "Man (Isle of)",
+            "IMN",
+            "GBP",
+            "Manx"
+        ],
+        "target": "Man (Isle of)"
+    },
+    {
+        "target_keys": [
+            "Marshall Islands",
+            "MHL",
+            "USD",
+            "Marshallese"
+        ],
+        "target": "Marshall Islands"
+    },
+    {
+        "target_keys": [
+            "Martinique",
+            "MTQ",
+            "EUR",
+            "Martiniquais, Martinican"
+        ],
+        "target": "Martinique"
+    },
+    {
+        "target_keys": [
+            "Mauritania",
+            "MRT",
+            "MRO",
+            "Mauritanian"
+        ],
+        "target": "Mauritania"
+    },
+    {
+        "target_keys": [
+            "Mauritius",
+            "MUS",
+            "MUR",
+            "Mauritian"
+        ],
+        "target": "Mauritius"
+    },
+    {
+        "target_keys": [
+            "Mayotte",
+            "MYT",
+            "EUR",
+            "Mahoran"
+        ],
+        "target": "Mayotte"
+    },
+    {
+        "target_keys": [
+            "Mexico",
+            "MEX",
+            "MXN",
+            "Mexican"
+        ],
+        "target": "Mexico"
+    },
+    {
+        "target_keys": [
+            "Micronesia",
+            "FSM",
+            "USD",
+            "Micronesian"
+        ],
+        "target": "Micronesia"
+    },
+    {
+        "target_keys": [
+            "Moldova",
+            "MDA",
+            "MDL",
+            "Moldovan"
+        ],
+        "target": "Moldova"
+    },
+    {
+        "target_keys": [
+            "Monaco",
+            "MCO",
+            "EUR",
+            "Monegasque, Monacan"
+        ],
+        "target": "Monaco"
+    },
+    {
+        "target_keys": [
+            "Mongolia",
+            "MNG",
+            "MNT",
+            "Mongolian"
+        ],
+        "target": "Mongolia"
+    },
+    {
+        "target_keys": [
+            "Montenegro",
+            "MNE",
+            "EUR",
+            "Montenegrin"
+        ],
+        "target": "Montenegro"
+    },
+    {
+        "target_keys": [
+            "Montserrat",
+            "MSR",
+            "XCD",
+            "Montserratian"
+        ],
+        "target": "Montserrat"
+    },
+    {
+        "target_keys": [
+            "Morocco",
+            "MAR",
+            "MAD",
+            "Moroccan"
+        ],
+        "target": "Morocco"
+    },
+    {
+        "target_keys": [
+            "Mozambique",
+            "MOZ",
+            "MZN",
+            "Mozambican"
+        ],
+        "target": "Mozambique"
+    },
+    {
+        "target_keys": [
+            "Myanmar",
+            "MMR",
+            "MMK",
+            "Burmese"
+        ],
+        "target": "Myanmar"
+    },
+    {
+        "target_keys": [
+            "Namibia",
+            "NAM",
+            "NAD",
+            "Namibian"
+        ],
+        "target": "Namibia"
+    },
+    {
+        "target_keys": [
+            "Nauru",
+            "NRU",
+            "AUD",
+            "Nauruan"
+        ],
+        "target": "Nauru"
+    },
+    {
+        "target_keys": [
+            "Nepal",
+            "NPL",
+            "NPR",
+            "Nepali, Nepalese"
+        ],
+        "target": "Nepal"
+    },
+    {
+        "target_keys": [
+            "Netherlands",
+            "NLD",
+            "EUR",
+            "Dutch, Netherlandic"
+        ],
+        "target": "Netherlands"
+    },
+    {
+        "target_keys": [
+            "New Caledonia",
+            "NCL",
+            "XPF",
+            "New Caledonian"
+        ],
+        "target": "New Caledonia"
+    },
+    {
+        "target_keys": [
+            "New Zealand",
+            "NZL",
+            "NZD",
+            "New Zealand, NZ"
+        ],
+        "target": "New Zealand"
+    },
+    {
+        "target_keys": [
+            "Nicaragua",
+            "NIC",
+            "NIO",
+            "Nicaraguan"
+        ],
+        "target": "Nicaragua"
+    },
+    {
+        "target_keys": [
+            "Niger",
+            "NER",
+            "XOF",
+            "Nigerien"
+        ],
+        "target": "Niger"
+    },
+    {
+        "target_keys": [
+            "Nigeria",
+            "NGA",
+            "NGN",
+            "Nigerian"
+        ],
+        "target": "Nigeria"
+    },
+    {
+        "target_keys": [
+            "Niue",
+            "NIU",
+            "NZD",
+            "Niuean"
+        ],
+        "target": "Niue"
+    },
+    {
+        "target_keys": [
+            "Norfolk Island",
+            "NFK",
+            "AUD",
+            "Norfolk Island"
+        ],
+        "target": "Norfolk Island"
+    },
+    {
+        "target_keys": [
+            "North Korea",
+            "PRK",
+            "KPW",
+            "North Korean"
+        ],
+        "target": "North Korea"
+    },
+    {
+        "target_keys": [
+            "North Macedonia",
+            "MKD",
+            "MKD",
+            "Macedonian"
+        ],
+        "target": "North Macedonia"
+    },
+    {
+        "target_keys": [
+            "Northern Mariana Islands",
+            "MNP",
+            "USD",
+            "Northern Marianan"
+        ],
+        "target": "Northern Mariana Islands"
+    },
+    {
+        "target_keys": [
+            "Norway",
+            "NOR",
+            "NOK",
+            "Norwegian"
+        ],
+        "target": "Norway"
+    },
+    {
+        "target_keys": [
+            "Oman",
+            "OMN",
+            "OMR",
+            "Omani"
+        ],
+        "target": "Oman"
+    },
+    {
+        "target_keys": [
+            "Pakistan",
+            "PAK",
+            "PKR",
+            "Pakistani"
+        ],
+        "target": "Pakistan"
+    },
+    {
+        "target_keys": [
+            "Palau",
+            "PLW",
+            "USD",
+            "Palauan"
+        ],
+        "target": "Palau"
+    },
+    {
+        "target_keys": [
+            "Palestinian Territory Occupied",
+            "PSE",
+            "ILS",
+            "Palestinian"
+        ],
+        "target": "Palestinian Territory Occupied"
+    },
+    {
+        "target_keys": [
+            "Panama",
+            "PAN",
+            "PAB",
+            "Panamanian"
+        ],
+        "target": "Panama"
+    },
+    {
+        "target_keys": [
+            "Papua new Guinea",
+            "PNG",
+            "PGK",
+            "Papua New Guinean, Papuan"
+        ],
+        "target": "Papua new Guinea"
+    },
+    {
+        "target_keys": [
+            "Paraguay",
+            "PRY",
+            "PYG",
+            "Paraguayan"
+        ],
+        "target": "Paraguay"
+    },
+    {
+        "target_keys": [
+            "Peru",
+            "PER",
+            "PEN",
+            "Peruvian"
+        ],
+        "target": "Peru"
+    },
+    {
+        "target_keys": [
+            "Philippines",
+            "PHL",
+            "PHP",
+            "Philippine, Filipino"
+        ],
+        "target": "Philippines"
+    },
+    {
+        "target_keys": [
+            "Pitcairn Island",
+            "PCN",
+            "NZD",
+            "Pitcairn Island"
+        ],
+        "target": "Pitcairn Island"
+    },
+    {
+        "target_keys": [
+            "Poland",
+            "POL",
+            "PLN",
+            "Polish"
+        ],
+        "target": "Poland"
+    },
+    {
+        "target_keys": [
+            "Portugal",
+            "PRT",
+            "EUR",
+            "Portuguese"
+        ],
+        "target": "Portugal"
+    },
+    {
+        "target_keys": [
+            "Puerto Rico",
+            "PRI",
+            "USD",
+            "Puerto Rican"
+        ],
+        "target": "Puerto Rico"
+    },
+    {
+        "target_keys": [
+            "Qatar",
+            "QAT",
+            "QAR",
+            "Qatari"
+        ],
+        "target": "Qatar"
+    },
+    {
+        "target_keys": [
+            "Reunion",
+            "REU",
+            "EUR",
+            "Reunionese, Reunionnais"
+        ],
+        "target": "Reunion"
+    },
+    {
+        "target_keys": [
+            "Romania",
+            "ROU",
+            "RON",
+            "Romanian"
+        ],
+        "target": "Romania"
+    },
+    {
+        "target_keys": [
+            "Russia",
+            "RUS",
+            "RUB",
+            "Russian"
+        ],
+        "target": "Russia"
+    },
+    {
+        "target_keys": [
+            "Rwanda",
+            "RWA",
+            "RWF",
+            "Rwandan"
+        ],
+        "target": "Rwanda"
+    },
+    {
+        "target_keys": [
+            "Saint Helena",
+            "SHN",
+            "SHP",
+            "Saint Helenian"
+        ],
+        "target": "Saint Helena"
+    },
+    {
+        "target_keys": [
+            "Saint Kitts And Nevis",
+            "KNA",
+            "XCD",
+            "Kittitian or Nevisian"
+        ],
+        "target": "Saint Kitts And Nevis"
+    },
+    {
+        "target_keys": [
+            "Saint Lucia",
+            "LCA",
+            "XCD",
+            "Saint Lucian"
+        ],
+        "target": "Saint Lucia"
+    },
+    {
+        "target_keys": [
+            "Saint Pierre and Miquelon",
+            "SPM",
+            "EUR",
+            "Saint-Pierrais or Miquelonnais"
+        ],
+        "target": "Saint Pierre and Miquelon"
+    },
+    {
+        "target_keys": [
+            "Saint Vincent And The Grenadines",
+            "VCT",
+            "XCD",
+            "Saint Vincentian, Vincentian"
+        ],
+        "target": "Saint Vincent And The Grenadines"
+    },
+    {
+        "target_keys": [
+            "Saint-Barthelemy",
+            "BLM",
+            "EUR",
+            "Barthelemois"
+        ],
+        "target": "Saint-Barthelemy"
+    },
+    {
+        "target_keys": [
+            "Saint-Martin (French part)",
+            "MAF",
+            "EUR",
+            "Saint-Martinoise"
+        ],
+        "target": "Saint-Martin (French part)"
+    },
+    {
+        "target_keys": [
+            "Samoa",
+            "WSM",
+            "WST",
+            "Samoan"
+        ],
+        "target": "Samoa"
+    },
+    {
+        "target_keys": [
+            "San Marino",
+            "SMR",
+            "EUR",
+            "Sammarinese"
+        ],
+        "target": "San Marino"
+    },
+    {
+        "target_keys": [
+            "Sao Tome and Principe",
+            "STP",
+            "STD",
+            "Sao Tomean"
+        ],
+        "target": "Sao Tome and Principe"
+    },
+    {
+        "target_keys": [
+            "Saudi Arabia",
+            "SAU",
+            "SAR",
+            "Saudi, Saudi Arabian"
+        ],
+        "target": "Saudi Arabia"
+    },
+    {
+        "target_keys": [
+            "Senegal",
+            "SEN",
+            "XOF",
+            "Senegalese"
+        ],
+        "target": "Senegal"
+    },
+    {
+        "target_keys": [
+            "Serbia",
+            "SRB",
+            "RSD",
+            "Serbian"
+        ],
+        "target": "Serbia"
+    },
+    {
+        "target_keys": [
+            "Seychelles",
+            "SYC",
+            "SCR",
+            "Seychellois"
+        ],
+        "target": "Seychelles"
+    },
+    {
+        "target_keys": [
+            "Sierra Leone",
+            "SLE",
+            "SLL",
+            "Sierra Leonean"
+        ],
+        "target": "Sierra Leone"
+    },
+    {
+        "target_keys": [
+            "Singapore",
+            "SGP",
+            "SGD",
+            "Singaporean"
+        ],
+        "target": "Singapore"
+    },
+    {
+        "target_keys": [
+            "Sint Maarten (Dutch part)",
+            "SXM",
+            "ANG",
+            "Sint Maarten"
+        ],
+        "target": "Sint Maarten (Dutch part)"
+    },
+    {
+        "target_keys": [
+            "Slovakia",
+            "SVK",
+            "EUR",
+            "Slovak"
+        ],
+        "target": "Slovakia"
+    },
+    {
+        "target_keys": [
+            "Slovenia",
+            "SVN",
+            "EUR",
+            "Slovenian, Slovene"
+        ],
+        "target": "Slovenia"
+    },
+    {
+        "target_keys": [
+            "Solomon Islands",
+            "SLB",
+            "SBD",
+            "Solomon Island"
+        ],
+        "target": "Solomon Islands"
+    },
+    {
+        "target_keys": [
+            "Somalia",
+            "SOM",
+            "SOS",
+            "Somali, Somalian"
+        ],
+        "target": "Somalia"
+    },
+    {
+        "target_keys": [
+            "South Africa",
+            "ZAF",
+            "ZAR",
+            "South African"
+        ],
+        "target": "South Africa"
+    },
+    {
+        "target_keys": [
+            "South Georgia",
+            "SGS",
+            "GBP",
+            "South Georgia or South Sandwich Islands"
+        ],
+        "target": "South Georgia"
+    },
+    {
+        "target_keys": [
+            "South Korea",
+            "KOR",
+            "KRW",
+            "South Korean"
+        ],
+        "target": "South Korea"
+    },
+    {
+        "target_keys": [
+            "South Sudan",
+            "SSD",
+            "SSP",
+            "South Sudanese"
+        ],
+        "target": "South Sudan"
+    },
+    {
+        "target_keys": [
+            "Spain",
+            "ESP",
+            "EUR",
+            "Spanish"
+        ],
+        "target": "Spain"
+    },
+    {
+        "target_keys": [
+            "Sri Lanka",
+            "LKA",
+            "LKR",
+            "Sri Lankan"
+        ],
+        "target": "Sri Lanka"
+    },
+    {
+        "target_keys": [
+            "Sudan",
+            "SDN",
+            "SDG",
+            "Sudanese"
+        ],
+        "target": "Sudan"
+    },
+    {
+        "target_keys": [
+            "Suriname",
+            "SUR",
+            "SRD",
+            "Surinamese"
+        ],
+        "target": "Suriname"
+    },
+    {
+        "target_keys": [
+            "Svalbard And Jan Mayen Islands",
+            "SJM",
+            "NOK",
+            "Svalbard"
+        ],
+        "target": "Svalbard And Jan Mayen Islands"
+    },
+    {
+        "target_keys": [
+            "Swaziland",
+            "SWZ",
+            "SZL",
+            "Swazi"
+        ],
+        "target": "Swaziland"
+    },
+    {
+        "target_keys": [
+            "Sweden",
+            "SWE",
+            "SEK",
+            "Swedish"
+        ],
+        "target": "Sweden"
+    },
+    {
+        "target_keys": [
+            "Switzerland",
+            "CHE",
+            "CHF",
+            "Swiss"
+        ],
+        "target": "Switzerland"
+    },
+    {
+        "target_keys": [
+            "Syria",
+            "SYR",
+            "SYP",
+            "Syrian"
+        ],
+        "target": "Syria"
+    },
+    {
+        "target_keys": [
+            "Taiwan",
+            "TWN",
+            "TWD",
+            "Chinese, Taiwanese"
+        ],
+        "target": "Taiwan"
+    },
+    {
+        "target_keys": [
+            "Tajikistan",
+            "TJK",
+            "TJS",
+            "Tajikistani"
+        ],
+        "target": "Tajikistan"
+    },
+    {
+        "target_keys": [
+            "Tanzania",
+            "TZA",
+            "TZS",
+            "Tanzanian"
+        ],
+        "target": "Tanzania"
+    },
+    {
+        "target_keys": [
+            "Thailand",
+            "THA",
+            "THB",
+            "Thai"
+        ],
+        "target": "Thailand"
+    },
+    {
+        "target_keys": [
+            "The Bahamas",
+            "BHS",
+            "BSD",
+            "Bahamian"
+        ],
+        "target": "The Bahamas"
+    },
+    {
+        "target_keys": [
+            "Togo",
+            "TGO",
+            "XOF",
+            "Togolese"
+        ],
+        "target": "Togo"
+    },
+    {
+        "target_keys": [
+            "Tokelau",
+            "TKL",
+            "NZD",
+            "Tokelauan"
+        ],
+        "target": "Tokelau"
+    },
+    {
+        "target_keys": [
+            "Tonga",
+            "TON",
+            "TOP",
+            "Tongan"
+        ],
+        "target": "Tonga"
+    },
+    {
+        "target_keys": [
+            "Trinidad And Tobago",
+            "TTO",
+            "TTD",
+            "Trinidadian or Tobagonian"
+        ],
+        "target": "Trinidad And Tobago"
+    },
+    {
+        "target_keys": [
+            "Tunisia",
+            "TUN",
+            "TND",
+            "Tunisian"
+        ],
+        "target": "Tunisia"
+    },
+    {
+        "target_keys": [
+            "Turkey",
+            "TUR",
+            "TRY",
+            "Turkish"
+        ],
+        "target": "Turkey"
+    },
+    {
+        "target_keys": [
+            "Turkmenistan",
+            "TKM",
+            "TMT",
+            "Turkmen"
+        ],
+        "target": "Turkmenistan"
+    },
+    {
+        "target_keys": [
+            "Turks And Caicos Islands",
+            "TCA",
+            "USD",
+            "Turks and Caicos Island"
+        ],
+        "target": "Turks And Caicos Islands"
+    },
+    {
+        "target_keys": [
+            "Tuvalu",
+            "TUV",
+            "AUD",
+            "Tuvaluan"
+        ],
+        "target": "Tuvalu"
+    },
+    {
+        "target_keys": [
+            "Uganda",
+            "UGA",
+            "UGX",
+            "Ugandan"
+        ],
+        "target": "Uganda"
+    },
+    {
+        "target_keys": [
+            "Ukraine",
+            "UKR",
+            "UAH",
+            "Ukrainian"
+        ],
+        "target": "Ukraine"
+    },
+    {
+        "target_keys": [
+            "United Arab Emirates",
+            "ARE",
+            "AED",
+            "Emirati, Emirian, Emiri"
+        ],
+        "target": "United Arab Emirates"
+    },
+    {
+        "target_keys": [
+            "United Kingdom",
+            "GBR",
+            "GBP",
+            "British, UK"
+        ],
+        "target": "United Kingdom"
+    },
+    {
+        "target_keys": [
+            "United States",
+            "USA",
+            "USD",
+            "American"
+        ],
+        "target": "United States"
+    },
+    {
+        "target_keys": [
+            "United States Minor Outlying Islands",
+            "UMI",
+            "USD",
+            "American"
+        ],
+        "target": "United States Minor Outlying Islands"
+    },
+    {
+        "target_keys": [
+            "Uruguay",
+            "URY",
+            "UYU",
+            "Uruguayan"
+        ],
+        "target": "Uruguay"
+    },
+    {
+        "target_keys": [
+            "Uzbekistan",
+            "UZB",
+            "UZS",
+            "Uzbekistani, Uzbek"
+        ],
+        "target": "Uzbekistan"
+    },
+    {
+        "target_keys": [
+            "Vanuatu",
+            "VUT",
+            "VUV",
+            "Ni-Vanuatu, Vanuatuan"
+        ],
+        "target": "Vanuatu"
+    },
+    {
+        "target_keys": [
+            "Vatican City State (Holy See)",
+            "VAT",
+            "EUR",
+            "Vatican"
+        ],
+        "target": "Vatican City State (Holy See)"
+    },
+    {
+        "target_keys": [
+            "Venezuela",
+            "VEN",
+            "VES",
+            "Venezuelan"
+        ],
+        "target": "Venezuela"
+    },
+    {
+        "target_keys": [
+            "Vietnam",
+            "VNM",
+            "VND",
+            "Vietnamese"
+        ],
+        "target": "Vietnam"
+    },
+    {
+        "target_keys": [
+            "Virgin Islands (British)",
+            "VGB",
+            "USD",
+            "British Virgin Island"
+        ],
+        "target": "Virgin Islands (British)"
+    },
+    {
+        "target_keys": [
+            "Virgin Islands (US)",
+            "VIR",
+            "USD",
+            "U.S. Virgin Island"
+        ],
+        "target": "Virgin Islands (US)"
+    },
+    {
+        "target_keys": [
+            "Wallis And Futuna Islands",
+            "WLF",
+            "XPF",
+            "Wallis and Futuna, Wallisian or Futunan"
+        ],
+        "target": "Wallis And Futuna Islands"
+    },
+    {
+        "target_keys": [
+            "Western Sahara",
+            "ESH",
+            "MAD",
+            "Sahrawi, Sahrawian, Sahraouian"
+        ],
+        "target": "Western Sahara"
+    },
+    {
+        "target_keys": [
+            "Yemen",
+            "YEM",
+            "YER",
+            "Yemeni"
+        ],
+        "target": "Yemen"
+    },
+    {
+        "target_keys": [
+            "Zambia",
+            "ZMB",
+            "ZMW",
+            "Zambian"
+        ],
+        "target": "Zambia"
+    },
+    {
+        "target_keys": [
+            "Zimbabwe",
+            "ZWE",
+            "ZWL",
+            "Zimbabwean"
+        ],
+        "target": "Zimbabwe"
+    }
+]
