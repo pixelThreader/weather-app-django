@@ -21,7 +21,7 @@ def api3104(request):
         data06 = request.POST.get('targetlocation')
         current_datetime = datetime.now()
         formatted_date = current_datetime.strftime("%d-%m-%Y %A")
-        foreweat = utilities.weather(data04+'+'+data03+'+'+data02)
+        foreweat = utilities.weather(data04+'+'+data03+'+'+data02, data05, data06)
         data = {'data': foreweat, 'season': {}}
         toda_ka_weather = data['data']['today']['weather']
         data['data']['today']['t_ts'] = formatted_date
