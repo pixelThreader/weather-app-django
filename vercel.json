@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "weather/wsgi.py"
+      "dest": "Weather/wsgi.py"
     }
   ]
 }
