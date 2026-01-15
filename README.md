@@ -10,24 +10,12 @@ Weather App is a Django project designed to provide weather information for spec
 
 - [Weather App](#weather-app)
   - [Table of Contents](#table-of-contents)
-  - [Creator](#creator)
   - [Introduction](#introduction)
   - [Features](#features)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [Terms](#terms)
-
-## Creator
-
-**Name:** Piyush Rana  
-**Age:** 20 
-
-
-I'm a passionate web developer with a keen interest in modern web technologies. With a dedication to learning and exploring new concepts in web development.
-
----
 
 ## Introduction
 
@@ -81,9 +69,3 @@ This will start the Django development server, and you can access the applicatio
 ## Contributing
 
 Contributions to Weather App are welcome! If you have any ideas for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request.
-
-## Terms
-
-By using the Weather App application, you agree to the following terms:
-
-1. **Non-Commercial Use**: This application is intended for non-commercial purposes only. Commercial usage may require consideration of Open-Metro API's pricing for commercial use.
